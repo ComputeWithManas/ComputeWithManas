@@ -33,8 +33,14 @@
   <a href="https://www.facebook.com/ComputeWithManasOfficial">
     <img src="https://img.shields.io/badge/Facebook Page-white?style=for-the-badge&logo=facebook&logoColor=0866FF" />
   </a>
+
+  <br/>
+
   <a href="https://www.instagram.com/computewithmanas/">
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
+  <a href="https://g.dev/ComputeWithManasOfficial">
+    <img src="https://img.shields.io/badge/Google Developers-white?style=for-the-badge&logo=google&logoColor=" />
   </a>
 
   <br/>
