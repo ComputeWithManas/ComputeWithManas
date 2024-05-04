@@ -57,13 +57,31 @@
 
 </div>
 
- <hr/>
+<hr/>
  
-<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<h3 align="center">⚒️ Languages ⚒️</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,sublime,atom,androidstudio,pycharm,idea,webstorm,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,nodejs,python,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,c,java,mysql" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<h3 align="center">⚒️ Frameworks ⚒️</h3>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,nodejs,typescript,express,firebase,mongodb,nextjs,flask" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<h3 align="center">⚒️ Softwares & Tools ⚒️</h3>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=unity,unreal,linux,discord,notion,replit,wordpress,pr,ae,blender" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,sublime,atom,androidstudio,pycharm,idea,webstorm,git,github,gitlab,figma" /><br>
 </div>
 
 <br/>
