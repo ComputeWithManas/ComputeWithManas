@@ -99,7 +99,7 @@
 <h3 align="center">⚒️ Softwares & Tools ⚒️</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=unity,unreal,linux,discord,notion,replit,wordpress,pr,ae,blender" />
+    <img src="https://skillicons.dev/icons?i=unity,unreal,windows,linux,discord,notion,replit,wordpress,pr,ae,blender" />
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,sublime,atom,androidstudio,pycharm,idea,webstorm,git,github,gitlab,figma" /><br>
 </div>
 
