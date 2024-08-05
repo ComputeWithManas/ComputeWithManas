@@ -46,7 +46,7 @@
   <br/>
 
   <a href="https://twitter.com/ComputeWitManas">
-    <img src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=1D9BF0" />
+    <img src="https://img.shields.io/badge/X (formerly Twitter)-white?style=for-the-badge&logo=x&logoColor=000000" />
   </a>
   <a href="https://github.com/ComputeWithManas" target="_blank">
      <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=181717" target="_blank" />
