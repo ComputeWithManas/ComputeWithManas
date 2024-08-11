@@ -39,13 +39,16 @@
   <a href="https://g.dev/ComputeWithManasOfficial">
     <img src="https://img.shields.io/badge/Google Developers-white?style=for-the-badge&logo=google&logoColor=" />
   </a>
+  <a href="https://www.instagram.com/_manasagrawal/">
+    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
   <a href="https://www.instagram.com/computewithmanas/">
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
 
   <br/>
 
-  <a href="https://twitter.com/ComputeWitManas">
+  <a href="https://x.com/_ManasAgrawal">
     <img src="https://img.shields.io/badge/X (formerly Twitter)-white?style=for-the-badge&logo=x&logoColor=000000" />
   </a>
   <a href="https://github.com/ComputeWithManas" target="_blank">
