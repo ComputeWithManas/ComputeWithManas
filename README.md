@@ -40,10 +40,10 @@
     <img src="https://img.shields.io/badge/Google Developers-white?style=for-the-badge&logo=google&logoColor=" />
   </a>
   <a href="https://www.instagram.com/_manasagrawal/">
-    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+    <img src="https://img.shields.io/badge/Instagram 01-white?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
   <a href="https://www.instagram.com/computewithmanas/">
-    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+    <img src="https://img.shields.io/badge/Instagram 02-white?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
 
   <br/>
