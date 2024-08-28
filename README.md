@@ -30,24 +30,27 @@
   <a href="https://youtube.com/@ComputeWithManasOfficial?si=pP8x6GLagNT5A9Zv" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-white?style=for-the-badge&logo=youtube&logoColor=FF0000" target="_blank" />
   </a>
-  <a href="https://www.facebook.com/ComputeWithManasOfficial">
-    <img src="https://img.shields.io/badge/Facebook Page-white?style=for-the-badge&logo=facebook&logoColor=0866FF" />
+  <a href="https://replit.com/@ComputeWithManas">
+    <img src="https://img.shields.io/badge/Replit-white?style=for-the-badge&logo=replit&logoColor=F26207" />
   </a>
 
   <br/>
 
-  <a href="https://g.dev/ComputeWithManasOfficial">
-    <img src="https://img.shields.io/badge/Google Developers-white?style=for-the-badge&logo=google&logoColor=" />
-  </a>
   <a href="https://www.instagram.com/_manasagrawal/">
     <img src="https://img.shields.io/badge/Instagram 01-white?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
   <a href="https://www.instagram.com/computewithmanas/">
     <img src="https://img.shields.io/badge/Instagram 02-white?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
+  <a href="https://g.dev/ComputeWithManasOfficial">
+    <img src="https://img.shields.io/badge/Google Developers-white?style=for-the-badge&logo=google&logoColor=" />
+  </a>
 
   <br/>
 
+  <a href="https://www.facebook.com/ComputeWithManasOfficial">
+    <img src="https://img.shields.io/badge/Facebook Page-white?style=for-the-badge&logo=facebook&logoColor=0866FF" />
+  </a>
   <a href="https://x.com/_ManasAgrawal">
     <img src="https://img.shields.io/badge/X (formerly Twitter)-white?style=for-the-badge&logo=x&logoColor=000000" />
   </a>
@@ -56,12 +59,6 @@
   </a>
   <a href="mailto:computewithmanas@gmail.com">
     <img src="https://img.shields.io/badge/GMail-white?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
-  <a href="https://discord.gg/v8hukJdmaC">
-    <img src="https://img.shields.io/badge/Discord Server-white?style=for-the-badge&logo=discord&logoColor=5865F2" />
-  </a>
-  <a href="https://replit.com/@ComputeWithManas">
-    <img src="https://img.shields.io/badge/Replit-white?style=for-the-badge&logo=replit&logoColor=F26207" />
   </a>
 
 </div>
